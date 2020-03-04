@@ -20,7 +20,7 @@ class Show < ActiveRecord::Base
     
   end
   
-  def self.highest_rating
+  def self.popular_shows
     
   end
   
